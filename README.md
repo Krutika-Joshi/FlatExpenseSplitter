@@ -20,5 +20,5 @@ A simple Python mini project to calculate and split flat expenses equally among 
    cd FlatExpenseSplitter
 3. Run the program:
    ```bash
-   python flat_expense_splitter.py
+   python main.py
 
