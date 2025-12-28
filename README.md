@@ -15,3 +15,10 @@ A simple Python mini project to calculate and split flat expenses equally among 
 1. Clone the repository
    ```bash
    git clone https://github.com/Krutika-Joshi/FlatExpenseSplitter.git
+2. Navigate into the project folder:
+   ```bash
+   cd FlatExpenseSplitter
+3. Run the program:
+   ```bash
+   python flat_expense_splitter.py
+
